@@ -5,8 +5,8 @@ This project is used to demonstrate how gradle group dependencies work and how t
 
 # Environment
 
-Gradle 3.4.1
-OpenJDK 1.8.x
+* Gradle 3.4.1
+* OpenJDK 1.8.x
 
 # How to use it
 
@@ -21,3 +21,6 @@ $ gradle copyLogs
 # log libs define in build.gradle will be copy into build/output/log 
 ```
 
+# License
+
+This demo is published via [BSD](http://www.linfo.org/bsdlicense.html) license
